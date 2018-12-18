@@ -7,7 +7,8 @@
     "build": "cross-env NODE_ENV=production webpack --config webpack.config.production.js",
     "lint": "eslint --ext .js,.jsx .",
     "deploy": "npm run clean & npm run build && surge -p .",
-    "start": "cross-env NODE_ENV=development node server.js"
+    "start": "cross-env NODE_ENV=development node server.js",
+    "pdf-export": "spectacle-renderer"
   },
   "author": "",
   "license": "MIT",
@@ -21,7 +22,7 @@
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "spectacle": "^5.2.2",
-    "spectacle-renderer": "^0.0.3"
+    "spectacle-renderer": "0.0.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.2",

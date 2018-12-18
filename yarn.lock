@@ -8921,7 +8921,7 @@ spdy@^3.4.1:
     select-hose "^2.0.0"
     spdy-transport "^2.0.18"
 
-spectacle-renderer@^0.0.3:
+spectacle-renderer@0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/spectacle-renderer/-/spectacle-renderer-0.0.3.tgz#eff08a64cd83d9385579581a4d1245de79ec2533"
   integrity sha512-DVfvvUGZUIMm0f29TT32oI44ghHJKw+n5wpU+5sXhFXSfXirK/E4fyuMo3lMlLjL9WnLolUQm2zsf1rBeWD1pw==
