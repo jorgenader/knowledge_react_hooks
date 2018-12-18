@@ -1,6 +1,6 @@
-# Django-Oscar knowledge sharing
+# React Hooks knowledge sharing
 
-Introduction to [https://github.com/django-oscar/django-oscar](Django-Oscar)
+Introduction to [React-Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ## Reference
 
