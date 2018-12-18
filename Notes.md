@@ -23,7 +23,7 @@
     - Classes don't minify very well
 
 
-## Hooks
+## Hooks proposal
 
 - Better primitives
     - Functional components can now also use React's features
@@ -32,6 +32,7 @@
 
 - Component code is easier to follow
     - Data flows from top
+    - Component life-cycle is kept in a single place (no confusion)
     
 - Rules !!!
 

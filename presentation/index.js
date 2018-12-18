@@ -53,7 +53,7 @@ const Presentation = () => (
         <Slide textColor="secondary">
             <Image src={Hooks} height={200} width={300} />
             <Heading size={1}>
-                Hooks
+                Hooks proposal
             </Heading>
             <Appear>
                 <Text textColor="tertiary">Better primitives</Text>
