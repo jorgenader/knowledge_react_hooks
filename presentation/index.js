@@ -70,6 +70,11 @@ const Presentation = () => (
         </Slide>
         <Slide textColor="secondary">
             <Heading size={1}>
+                Show us some code
+            </Heading>
+        </Slide>
+        <Slide textColor="secondary">
+            <Heading size={1}>
                 References
             </Heading>
             <List>
